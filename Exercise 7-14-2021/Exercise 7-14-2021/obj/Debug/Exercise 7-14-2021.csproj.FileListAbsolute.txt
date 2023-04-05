@@ -1,0 +1,7 @@
+C:\Users\lfrit\source\repos\Exercise 7-14-2021\Exercise 7-14-2021\bin\Debug\Exercise 7-14-2021.exe.config
+C:\Users\lfrit\source\repos\Exercise 7-14-2021\Exercise 7-14-2021\bin\Debug\Exercise 7-14-2021.exe
+C:\Users\lfrit\source\repos\Exercise 7-14-2021\Exercise 7-14-2021\bin\Debug\Exercise 7-14-2021.pdb
+C:\Users\lfrit\source\repos\Exercise 7-14-2021\Exercise 7-14-2021\obj\Debug\Exercise 7-14-2021.csprojAssemblyReference.cache
+C:\Users\lfrit\source\repos\Exercise 7-14-2021\Exercise 7-14-2021\obj\Debug\Exercise 7-14-2021.csproj.CoreCompileInputs.cache
+C:\Users\lfrit\source\repos\Exercise 7-14-2021\Exercise 7-14-2021\obj\Debug\Exercise 7-14-2021.exe
+C:\Users\lfrit\source\repos\Exercise 7-14-2021\Exercise 7-14-2021\obj\Debug\Exercise 7-14-2021.pdb
